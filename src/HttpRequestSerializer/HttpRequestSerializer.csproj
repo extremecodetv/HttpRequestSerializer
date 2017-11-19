@@ -5,19 +5,19 @@
   </PropertyGroup>
   
   <PropertyGroup>
-    <Title>HttpPostSerializer</Title>
+    <Title>HttpRequestSerializer</Title>
     <Authors>Artem Dontsov</Authors>
-    <Product>HttpPostSerializer</Product>
-    <Description>Object serializer to FormUrlEncodedContent</Description>
-    <PackageId>HttpPostSerializer</PackageId>
+    <Product>HttpRequestSerializer</Product>
+    <Description>POCO serializer to FormUrlEncodedContent</Description>
+    <PackageId>HttpRequestSerializer</PackageId>
     <PackageVersion></PackageVersion>
-    <PackageProjectUrl>https://github.com/extremecodetv/HttpPostSerializer</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/extremecodetv/HttpPostSerializer</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/extremecodetv/HttpRequestSerializer</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/extremecodetv/HttpRequestSerializer</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
   
   <PropertyGroup>
-    <AssemblyName>HttpPostSerializer</AssemblyName>
+    <AssemblyName>HttpRequestSerializer</AssemblyName>
     <Version></Version>
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
