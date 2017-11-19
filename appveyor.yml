@@ -3,16 +3,16 @@ image: Visual Studio 2017
 skip_branch_with_pr: true
   
 before_build:
-  - nuget restore HttpPostSerializer.sln
+  - nuget restore HttpRequestSerializer.sln
     
 dotnet_csproj:
   patch: true
-  file: src\HttpPostSerializer\HttpPostSerializer.csproj
+  file: src\HttpRequestSerializer\HttpRequestSerializer.csproj
   version: $(appveyor_build_version)
   package_version: $(appveyor_build_version)
   
 build:
-    project: HttpPostSerializer.sln
+    project: HttpRequestSerializer.sln
     publish_nuget: true
     publish_nuget_symbols: false
     verbosity: minimal
