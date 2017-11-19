@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpPostSerializer", "src\HttpPostSerializer\HttpPostSerializer.csproj", "{B45C83BE-03E5-45BB-BDEC-7C7E6D979F9B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpRequestSerializer", "src\HttpRequestSerializer\HttpRequestSerializer.csproj", "{B45C83BE-03E5-45BB-BDEC-7C7E6D979F9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
