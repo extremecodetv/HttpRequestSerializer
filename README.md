@@ -24,7 +24,7 @@ class POCO {
   public string FirstName { get; set; }
     
   [HttpProperty("lastname")]
-  public string lastName { get; set; }
+  public string LastName { get; set; }
 }
 
 static void Main(string[] args) {
