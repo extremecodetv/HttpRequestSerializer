@@ -2,7 +2,7 @@
 
 ## Installation
 
-Install as [NuGet package](https://www.nuget.org/packages/SocksSharp/):
+Install as [NuGet package](https://www.nuget.org/packages/HttpPostSerializer/):
 
 ```powershell
 Install-Package HttpPostSerializer
